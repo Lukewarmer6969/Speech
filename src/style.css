@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html, body { 
+    min-height: 100%; 
+    height: 100vh;
+}
+div.boxx{
+    height: 80%;
+}
+h1{
+    margin-bottom: 10rem;
+}
+textarea{
+    color: #000;
+    resize: none;
+    border: 1px solid hsl(0, 0%, 7%);
+    border-radius: 6px;
+    font-family: "Poppins", sans-serif;
+    margin: 1.6rem;
+    min-height: 3rem;
+    font-weight: 400;
+    width: 500px;
+    background: #ddd2d2;
+}
+.hide{
+    display: none;
+}
+audio{
+    margin: 1.6rem;
+}
+button{
+    padding: 6px;
+    background-color: rgba(94, 136, 175, 0.985);
+    border: 1px solid rgba(22, 102, 176, 0.985);
+}
+
+
+h1, .footer{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+}
+.footer{
+    height: 40px;
+    font-size: 1.2rem;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+.footer > img{
+    height: 100%;
+}
