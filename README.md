@@ -34,7 +34,7 @@
 * Accept the transaction for the provider.
 * Wait a few minutes.
 * Then go to the Leases and Click the link of url.
-* The Url redirects to your Application.
+
 * To Generate speech
    - Insert any text you want to generate.
    - You'll Hear in the ai generated voice.
