@@ -20,17 +20,18 @@
   - You Need to have minimum 5 AKT in the wallet.
 
 * Go to Deployments.
-* There you can build your own template or run pre built SDL from Akash Marketplace.
+* There you can build your own template
+  
 * For this build  Select Build Your Template.
 * You can name the deployment.
 * Click YAML and Paste the SDL.
  
 
 * Click Create Deployment.
-* You'll receive a transaction request in the wallet.
+* You'll receive a transaction request from wallet.
 * Approve the transaction request.
 * After Approval you'll receive bids.
-* Review the bids and select the provider.
+* Select the bids and select the provider.
 * Accept the transaction for the provider.
 * Wait a few minutes.
 * Then go to the Leases and Click the link of url.
