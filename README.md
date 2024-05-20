@@ -10,8 +10,8 @@
      - [Kepler](https://chromewebstore.google.com/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)
     -  [Leap](https://www.leapwallet.io/#inpage-download) 
 
-* Fund the wallet
-  - You can Swap Atom to AKT on [Osomis](https://app.osmosis.zone/?from=OSMO&to=AKT)
+* Funding the wallet
+  
   - Buy Atom from Centralised Exchanges.
   - Connect your Wallet to Swap.
     
