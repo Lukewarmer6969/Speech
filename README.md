@@ -23,9 +23,9 @@
 * There you can build your own template or run pre built SDL from Akash Marketplace.
 * For this build  Select Build Your Template.
 * You can name the deployment.
-* Click YAML and Paste the SDL (Your own or pre-built).
+* Click YAML and Paste the SDL.
  
-* My SDL [deploy.yaml].
+
 * Click Create Deployment.
 * You'll receive a transaction request in the wallet.
 * Approve the transaction request.
