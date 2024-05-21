@@ -1,4 +1,4 @@
-#  TTS Deployed on Akash Network
+# Text to Speech generator
 
 ![image](https://github.com/Lukewarmer6969/Speech/assets/169473882/45358c58-ae78-4225-b9a6-5a6a045deb1d)
 
