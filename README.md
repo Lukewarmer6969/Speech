@@ -40,3 +40,7 @@
 * To Generate speech
    - Insert any text you want to generate.
    - You'll Hear in the ai generated voice.
+
+# The URL of The TTS Deployed on Akash Network
+
+![image](https://github.com/Lukewarmer6969/Speech/assets/169473882/80f845e6-af4d-4889-8652-f8665c8f8e6d)
